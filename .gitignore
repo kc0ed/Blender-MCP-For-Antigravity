@@ -1,0 +1,40 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.venv*/
+manual_env/
+
+# macOS
+.DS_Store
+
+# Local config secrets
+src/blender_mcp/config.py
+
+# Debug artifacts
+debug/
+*.log
+
+# Documentation (Keep local)
+docs/
+
+# User Workspaces (CRITICAL: KEEP LOCAL)
+3D_Creation_Workspace/
+3D Finnal Chat history/
+*Chat history*
+*Workspace*
+
+# UV lock file
+# uv.lock
+
+# Tests folder
+# tests/
+
+# Mac/System
+.DS_Store
