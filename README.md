@@ -1,7 +1,7 @@
 # Blender MCP for Antigravity (Windows Optimized)
 
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Antigravity](https://img.shields.io/badge/Editor-Antigravity-purple?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Antigravity](https://img.shields.io/badge/Editor-Antigravity-purple?logo=visual-studio-code&logoColor=white)](https://antigravity.google)
 [![Blender](https://img.shields.io/badge/Blender-4.0%2B-orange?logo=blender&logoColor=white)](https://www.blender.org/)
 
 **[中文文档 (Chinese Documentation)](README_CN.md)**
@@ -59,6 +59,4 @@ This repository includes a `tests/` folder with scripts to verify functionality.
 - You can ask Antigravity to "Run the tests in the tests folder" to self-diagnose issues.
 - `server.py` is the main entry point, but `tests/test_binary.py` can verify low-level protocol health.
 
-## 📂 Documentation
 
-Advanced documentation (SOPs, Troubleshooting Guides) is available in the local `docs/` folder (not uploaded to GitHub to keep the repo clean).

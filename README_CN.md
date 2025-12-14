@@ -1,7 +1,7 @@
 # Blender MCP for Antigravity (Windows 优化版)
 
 [![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Antigravity](https://img.shields.io/badge/Editor-Antigravity-purple?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Antigravity](https://img.shields.io/badge/Editor-Antigravity-purple?logo=visual-studio-code&logoColor=white)](https://antigravity.google)
 [![Blender](https://img.shields.io/badge/Blender-4.0%2B-orange?logo=blender&logoColor=white)](https://www.blender.org/)
 
 **[English Documentation](README.md)**
@@ -59,6 +59,4 @@
 - 如果遇到问题，您可以让 Antigravity "运行 tests 文件夹下的测试" 来进行自我诊断。
 - `server.py` 是主程序，但 `tests/test_binary.py` 可以用来验证底层协议是否通畅。
 
-## 📂 更多文档
 
-更详细的开发文档（SOP、踩坑指南）已归档在本地的 `docs/` 文件夹中（为了保持仓库整洁，这些文档不会同步到 GitHub）。
